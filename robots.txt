@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pascalranaora.github.io/sitemap.xml
+Sitemap: https://pascalranaora.github.io/home/sitemap.xml
